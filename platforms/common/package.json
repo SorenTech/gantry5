@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "agent": "^0.2.1",
-    "async": "^1.2.0",
+    "async": "^3.2.2",
     "dropzone": "^4.0.1",
     "elements": "git://github.com/w00fz/elements.git",
     "moofx": "^3.2.0",
